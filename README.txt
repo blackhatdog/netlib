@@ -32,6 +32,13 @@ Windows :
 (winpic.jpg)
 4. Go to browser on any device 
 5. go to http://<ip address of hosting computer>:8080
+--------------------------------------------------------
+how to find ip address on windows?
+
+netlibhost+ is proggrammed to show ip details of the running computer
+in winpic.jpg , in the blurred part (blurred in image for security reasons) under ipv4 address you will find your ip adress
+
+
 ---------------------------------------------
 Linux 
 *not tested 
