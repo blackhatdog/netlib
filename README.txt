@@ -14,8 +14,8 @@ Python 3
 Lan Network
 
 ---------------------------------------------
-username : comlogin@netlib.8080
-password:2021
+username : userx
+password:user
 ---------------------------------------------
 What to do ?
 
