@@ -8,6 +8,8 @@ to the development of this platform by sharing PDFs of books and giving suggesti
 
 Issues will be raised soon so that you can send us feedback and contribute to the project.
 
+To view the project:https://blackhatdog.github.io/netlib
+
 Enjoy!😀😁
 
 Made with ❤ by @blackhatdog
